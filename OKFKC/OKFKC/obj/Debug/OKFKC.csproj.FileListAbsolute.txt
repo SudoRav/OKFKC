@@ -1,0 +1,93 @@
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\bin\Debug\OKFKC.exe.config
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\bin\Debug\OKFKC.exe
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\bin\Debug\OKFKC.pdb
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.csproj.AssemblyReference.cache
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.Form1.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.Properties.Resources.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.csproj.GenerateResource.cache
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.csproj.CoreCompileInputs.cache
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.exe
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.pdb
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._6.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._7.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._10.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._13.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._18.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._19.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._2.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._3.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._4.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._5.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._9.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms.tforms.contacts.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.csprojAssemblyReference.cache
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms.__31.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms.__32.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.Form1.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._10.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._11.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._13.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._15.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._16.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._18.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._19.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._2.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._3.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._4.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._5.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._6.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._7.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._8.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._9.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms.tforms.contacts.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.Properties.Resources.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.csproj.GenerateResource.cache
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.csproj.CoreCompileInputs.cache
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.exe
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.pdb
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\bin\Debug\OKFKC.exe.config
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\bin\Debug\OKFKC.exe
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\bin\Debug\OKFKC.pdb
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._12.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._17.resources
+C:\Users\selme\Google Диск\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._26.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms.__31.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms.__32.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._11.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._12.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._15.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._16.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._17.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._26.resources
+D:\GoogleDisk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._8.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\bin\Debug\OKFKC.exe.config
+C:\star google disk\OKFKC\OKFKC\OKFKC\bin\Debug\OKFKC.exe
+C:\star google disk\OKFKC\OKFKC\OKFKC\bin\Debug\OKFKC.pdb
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.csprojAssemblyReference.cache
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms.__31.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms.__32.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.Form1.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._10.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._11.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._12.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._13.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._15.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._16.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._17.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._18.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._19.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._2.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._26.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._3.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._4.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._5.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._6.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._7.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._8.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms._9.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.forms.tforms.contacts.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.Properties.Resources.resources
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.csproj.GenerateResource.cache
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.csproj.CoreCompileInputs.cache
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.exe
+C:\star google disk\OKFKC\OKFKC\OKFKC\obj\Debug\OKFKC.pdb
